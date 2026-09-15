@@ -1,0 +1,8 @@
+{
+  "appId": "com.abmai.iptveasyplayer",
+  "appName": "IPTV Easy Player",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
